@@ -53,19 +53,6 @@
 
 ---
 
-
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pulastaya-data&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulastaya-data&layout=compact&theme=tokyonight">
-</p>
-
----
-
 ### 📫 Connect With Me
 
 - GitHub: https://github.com/pulastaya-data
