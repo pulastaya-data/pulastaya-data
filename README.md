@@ -19,7 +19,7 @@
 
 I am a data science enthusiast actively building skills in machine learning, data analysis, and statistical thinking. My focus is on developing a strong foundation in the core areas that matter — clean data, meaningful insights, and reliable models.
 
-- 🎯 **Goal:** Data Science Internship (2025)
+- 🎯 **Goal:** Data Science Internship (2026)
 - 📍 **Location:** India
 - 📖 **Currently studying:** Machine Learning algorithms, SQL (advanced queries), and the mathematics behind ML (linear algebra, statistics, probability)
 - 🛠️ **Building:** End-to-end data science projects using real-world datasets
