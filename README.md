@@ -55,27 +55,6 @@ I am a data science enthusiast actively building skills in machine learning, dat
 
 ---
 
-## 📂 Featured Projects
-
-> *(Add your 2–3 best projects here in this format)*
-
-| Project | Description | Tools Used |
-|--------|-------------|------------|
-| [Project Name](https://github.com/pulastaya-data) | One-line description of what it does and what insight it produced | Python, Pandas, Scikit-learn |
-| [Project Name](https://github.com/pulastaya-data) | One-line description | SQL, Power BI |
-| [Project Name](https://github.com/pulastaya-data) | One-line description | Python, Matplotlib, Flask |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pulastaya-data&show_icons=true&theme=default&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulastaya-data&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
 
 ## 📫 Let's Connect
 
